@@ -13,8 +13,8 @@ Esse projeto foi feito na Next Level Week #4, a ideia era criar um site com a di
 
 ## 🚀 Tecnologias
 
-ReactJS
-NextJS
+- ReactJS
+- NextJS
 
 
 ## 💻 Clonando repositório e executando
@@ -36,7 +36,7 @@ $ yarn
 
 ```bash
 # Iniciando o projeto
-$ yarn start
+$ yarn dev
 
 ```
 
